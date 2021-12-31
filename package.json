@@ -1,13 +1,14 @@
 {
-  "name": "import-jsx",
+  "name": "solid-import-jsx",
   "version": "4.0.0",
+  "private": true,
   "description": "Require and transpile JSX on the fly",
   "license": "MIT",
   "repository": "vadimdemedes/import-jsx",
   "author": {
     "name": "Vadim Demedes",
     "email": "vdemedes@gmail.com",
-    "url": "github.com/vadimdemedes"
+    "url": "github.com/vadimdemedes/ink"
   },
   "engines": {
     "node": ">=10"
