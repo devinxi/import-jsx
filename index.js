@@ -13,7 +13,8 @@ const importJsx = (moduleId, options) => {
 	options = {
 		pragma: 'h',
 		pragmaFrag: 'Fragment',
-		cache: true,
+		importPath: 'solid-ink',
+		cache: false,
 		...options
 	};
 
